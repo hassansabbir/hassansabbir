@@ -2,11 +2,11 @@
 <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png">
 
 <h1 align="center">Hi 👋, I'm Mahmud Hasan Sabbir</h1>
-<h3 align="center">A passionate frontend and MERN Stack developer from Bangladesh</h3>
+<h2 align="center">A passionate frontend and MERN Stack developer from Bangladesh</h2>
 
-<h5 align="center">I am a passionate junior web developer eager to make a mark in the digital world. 💻 I have a strong foundation in web development, including HTML, CSS, and JavaScript, and frameworks like React Bootstrap, and Tailwind. I'm constantly expanding my skills to create engaging and user-friendly websites. 🌐 I strive to deliver clean and efficient code while embracing best practices and staying up-to-date with the latest technologies. 🚀 Feel free to explore my projects and reach out for any exciting opportunities or to simply connect. 🚀💡 Let's connect and collaborate to build amazing web solutions together!🌟</h5>
+<h3 align="center">I am a passionate junior web developer eager to make a mark in the digital world. 💻 I have a strong foundation in web development, including HTML, CSS, and JavaScript, and frameworks like React Bootstrap, and Tailwind. I'm constantly expanding my skills to create engaging and user-friendly websites. 🌐 I strive to deliver clean and efficient code while embracing best practices and staying up-to-date with the latest technologies. 🚀 Feel free to explore my projects and reach out for any exciting opportunities or to simply connect. 🚀💡 Let's connect and collaborate to build amazing web solutions together!🌟</h3>
 
-<h5 align="center"> 💻✨ I love transforming ideas into beautiful and functional websites that make a positive impact. 🌐🌈 With a creative mindset and a strong eye for detail, I strive to bring the perfect blend of aesthetics and usability to every project I work on. 🔧🎨</h5>
+<h3 align="center"> 💻✨ I love transforming ideas into beautiful and functional websites that make a positive impact. 🌐🌈 With a creative mindset and a strong eye for detail, I strive to bring the perfect blend of aesthetics and usability to every project I work on. 🔧🎨</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
