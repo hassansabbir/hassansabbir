@@ -96,7 +96,7 @@ const mahmud = {
 
 <div align="center">
   
-[![Resume](https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1DDviXCszTz-KrM9g2CY3OwIKZBcOX_AG/view)
+[![Resume](https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1myvx8U6W-NbqAgU6wzystwuBvSjH1BfT/view?usp=sharing)
 
 </div>
 
