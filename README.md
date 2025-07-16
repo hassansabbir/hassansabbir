@@ -1,7 +1,7 @@
-# 🌟 Mahmud Hasan Sabbir
+# 🌟 Juyel Haque
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Frontend+Specialist;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Enthusiast;Frontend+Specialist;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,14 +15,14 @@
 ```javascript
 const mahmud = {
     location: "Bangladesh 🇧🇩",
-    role: "Full Stack Developer",
+    role: "Frontend Developer",
     technologies: {
         frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "MongoDB"],
+        backend: ["Node.js"],
         tools: ["Git", "VS Code", "Postman", "Figma"]
     },
-    currentFocus: "Building scalable web applications",
-    funFact: "I think I am funny 😄"
+    currentFocus: "Building scalable web applications ",
+    funFact: "I think "
 };
 ```
 
@@ -72,9 +72,9 @@ const mahmud = {
 ## 🎯 Current Focus
 
 - 🌱 **Learning:** Next.js & TypeScript
-- 💼 **Open for:** Frontend & Full Stack opportunities
+- 💼 **Open for:** Frontend Devoloper
 - 🤝 **Collaborate on:** React projects & open source
-- 💬 **Ask me about:** React, CSS, JavaScript, MERN Stack
+- 💬 **Ask me about:** React, CSS, JavaScript
 
 ---
 
@@ -82,11 +82,9 @@ const mahmud = {
 
 <div align="center">
   
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahmudhasan3087)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmud-hasan-sabbir)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mahmood.sabbir.9)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hassan_sabbir_87)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoodsabbir3087@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juyel-haqu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juyelhaque29@gmail.com)
 
 </div>
 
@@ -96,7 +94,7 @@ const mahmud = {
 
 <div align="center">
   
-[![Resume](https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1myvx8U6W-NbqAgU6wzystwuBvSjH1BfT/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/13hv2fQ_8m_owqqVz0YzB4mKO2yl5DlgsLyS51hwDmFY/edit?tab=t.0)
 
 </div>
 
