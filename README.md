@@ -71,7 +71,7 @@ const mahmud = {
 
 ## 🎯 Current Focus
 
-- 🌱 **Learning:** Next.js & TypeScript
+- 🌱 **Learning:** GSAP for Animation & Express for Backend
 - 💼 **Open for:** Frontend & Full Stack opportunities
 - 🤝 **Collaborate on:** React projects & open source
 - 💬 **Ask me about:** React, CSS, JavaScript, MERN Stack
