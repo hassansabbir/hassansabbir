@@ -113,7 +113,7 @@ const mahmud = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hassansabbir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
-  <h3>⭐ Show some love by starring my repositories! ⭐</h3>
+  <h3>⭐ Show some love by starring my repositories!! ⭐</h3>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
