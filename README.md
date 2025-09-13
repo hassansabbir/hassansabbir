@@ -10,7 +10,7 @@
 
 ## 🚀 About Mee
 
-![Sabbir LinkedIn Banner](https://raw.githubusercontent.com/<hassansabbir>/<your-repo>/assets/SabbirsLinkedBanner.png)
+
 
 ```javascript
 const mahmud = {
